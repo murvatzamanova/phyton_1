@@ -109,6 +109,7 @@ Istenilen qeder obyekt yara biler
 # ...........NEW TASK...........
 
 class Meyvə:
+        nov = "meyve"
     def __init__(self, ad, rəng,qiymet):
         self.ad = ad
         self.rəng = rəng
